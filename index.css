@@ -1,0 +1,82 @@
+
+html, body {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    max-width: 700px;
+    margin: auto;
+}
+
+
+.header {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.nav {
+    color: black;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#logo {
+    font-size: 20px;
+    font-weight: 1000;
+    color: black;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+
+
+}
+
+
+
+.box {
+    background-color: white;
+    padding: 20px;
+    margin: 50px;
+}
+
+.button {
+    color: white;
+    background-color: lightblue;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Helvetica;
+    display: inline-block;
+    width: 100;
+}
+
+#img1, #img2, #img3 {
+    margin: auto;
+    width: 100%;
+}
+
+.event{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+.date {
+    margin-top: 0;
+    padding-top: 0;
+    text-align: top;
+    color: grey;
+}
+
+
+footer{
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+}
+
