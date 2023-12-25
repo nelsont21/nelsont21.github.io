@@ -1,0 +1,36 @@
+html, body {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    max-width: 700px;
+    margin: auto;
+}
+
+
+.header {
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.nav {
+    color: black;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#logo {
+    font-size: 20px;
+    font-weight: 1000;
+    color: black;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+
+
+}
