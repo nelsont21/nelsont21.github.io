@@ -9,6 +9,10 @@ html, body {
     margin: auto;
 }
 
+.notice {
+    padding: 10px;
+}
+
 
 .header {
     background-color: lightblue;
